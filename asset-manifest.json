@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/useDarkMode/static/css/main.0e108c29.chunk.css",
+    "main.js": "/useDarkMode/static/js/main.f8db7342.chunk.js",
+    "main.js.map": "/useDarkMode/static/js/main.f8db7342.chunk.js.map",
+    "runtime-main.js": "/useDarkMode/static/js/runtime-main.197563f9.js",
+    "runtime-main.js.map": "/useDarkMode/static/js/runtime-main.197563f9.js.map",
+    "static/js/2.295bd023.chunk.js": "/useDarkMode/static/js/2.295bd023.chunk.js",
+    "static/js/2.295bd023.chunk.js.map": "/useDarkMode/static/js/2.295bd023.chunk.js.map",
+    "index.html": "/useDarkMode/index.html",
+    "precache-manifest.4c47f02eeb030aa141ce8752eacbd5d4.js": "/useDarkMode/precache-manifest.4c47f02eeb030aa141ce8752eacbd5d4.js",
+    "service-worker.js": "/useDarkMode/service-worker.js",
+    "static/css/main.0e108c29.chunk.css.map": "/useDarkMode/static/css/main.0e108c29.chunk.css.map",
+    "static/js/2.295bd023.chunk.js.LICENSE.txt": "/useDarkMode/static/js/2.295bd023.chunk.js.LICENSE.txt",
+    "static/media/logo.jpg": "/useDarkMode/static/media/logo.0a266ba0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.197563f9.js",
+    "static/js/2.295bd023.chunk.js",
+    "static/css/main.0e108c29.chunk.css",
+    "static/js/main.f8db7342.chunk.js"
+  ]
+}
